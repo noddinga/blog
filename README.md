@@ -1,2 +1,2 @@
 # blogpictures
-blogpicturesroom
+pictures used in my blog
